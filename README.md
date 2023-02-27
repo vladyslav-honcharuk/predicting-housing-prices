@@ -1,4 +1,5 @@
-# predicting_housing_prices
+# Predicting Housing Prices
+
 Project completed while studying at MIT
 
 Determining the price of the house can be really useful when you buy one, you want to buy a house as cheap and as good at the same time as possible, but how to pay a real price for what you get. Machine Learning eases the process of determining the real price of the house, based on the data of properties of different houses and their price you can predict the price of the house with your desired properties. I have build a Machine Learning model to predict the price of the house and accomplished a score of almost 80% correctness of the prediction. To get such score the thorough data cleaning is needed and the right ML algorithm has to be chosen. I used the Linear Regression algorithm that allows to determine the value of the dependent target property based on the independent features.
